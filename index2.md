@@ -1,1 +1,1 @@
-I want to go to eastern europe.
+I want to go to **Eastern Europe**.
